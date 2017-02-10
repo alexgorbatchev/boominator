@@ -1,6 +1,6 @@
 # Boominator
 
-Festival speaker Boominator (originally designed by Saturnus)
+Festival speaker Boominator (originally designed by Johnny Engberg aka Saturnus)
 
 This repository and wiki is an amalgamation of the [original thread](http://www.diyaudio.com/forums/class-d/104402-boominator-another-stab-ultimate-party-machine.html)
 started by Saturnus in 2007. The thread is now over 650 pages long with over 6500 posts.
