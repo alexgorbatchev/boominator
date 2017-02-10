@@ -14,7 +14,7 @@ This repository and wiki covers the following subjects:
 
 * Parts list with prices and sources
 * Enclousure design in Solidworks and Sketchup
-* Snippets of Saturnus wisdon with references
+* Snippets of Saturnus wisdom with references where available
 
 ## License
 
