@@ -1,6 +1,15 @@
 ﻿"LENGTH" = 1000mm
 "WIDTH" = 300mm
+"HEIGHT" = 300mm
+"HOUSING_DEPTH" = 4mm
 "PLY"= 12mm
 "CENTER_BRACE_LENGTH" = 393mm
 "PANEL_WIDTH"= "LENGTH" - "CENTER_BRACE_LENGTH" * 2 - "PLY" * 4
 "PANEL_SMALL_HEIGHT" = 70mm
+"PORT_WIDTH" = 90mm
+"PORT_RADIUS" = 15mm
+"PORT_BRACE_HEIGHT" = 92mm
+"DOWEL_SIZE" = 0.25in
+"DOWEL_OFFSET" = 30mm
+"GW1058_outside_diameter" = 10.125in
+"GW1058_baffle_cutout_diameter" = 9.25in
